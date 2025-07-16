@@ -2,6 +2,9 @@
 
 An intelligent dashboard that transforms raw financial data into actionable insights using machine learning. Built with Streamlit.
 
+<img width="1024" height="768" alt="services1" src="https://github.com/user-attachments/assets/85f2c310-8de7-47d8-963d-144282da1ae1" />
+
+
 ## Features
 - Upload CSV/Excel financial data
 - Auto EDA and KPI extraction
